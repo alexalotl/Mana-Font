@@ -23,6 +23,7 @@
 
 .icon-mana:before {
     content: "\e900";
+    color: #ff6a00;
 }
 
 h1 {
