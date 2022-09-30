@@ -24,7 +24,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+h1 {
+    color: blueviolet;
+}
 .icon-blue-mana_adobe_express .path1:before {
   content: "\e900";
   color: rgb(83, 169, 201);
